@@ -23,7 +23,7 @@ body {
 
 .top-menu {
   display: flex;
-  background-color: #4B071C;
+  background-color: var(--bg-style);
   border-bottom: var(--border-style);
   justify-content: space-around;
 }
